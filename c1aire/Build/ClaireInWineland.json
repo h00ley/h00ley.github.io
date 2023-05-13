@@ -1,0 +1,14 @@
+{
+"companyName": "PlayGnd",
+"productName": "Claire In WineLand",
+"dataUrl": "ClaireInWineland.data.unityweb",
+"asmCodeUrl": "ClaireInWineland.asm.code.unityweb",
+"asmMemoryUrl": "ClaireInWineland.asm.memory.unityweb",
+"asmFrameworkUrl": "ClaireInWineland.asm.framework.unityweb",
+"TOTAL_MEMORY": 370147328,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#8B8B8B",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
